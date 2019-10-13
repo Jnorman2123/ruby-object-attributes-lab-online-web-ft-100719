@@ -4,6 +4,6 @@ class Dog
   end
 
   def name
-    @nameS
+    @name
   end
 end
